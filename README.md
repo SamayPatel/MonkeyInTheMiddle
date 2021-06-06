@@ -1,2 +1,2 @@
-# MonkeyInTheMiddle
-Throw the tomato into the basket. But be aware of the MONKEY
+# p5.play-boilerplate
+Boiler plate for p5.play
